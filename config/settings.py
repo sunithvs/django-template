@@ -61,7 +61,6 @@ INSTALLED_APPS = [
     'django_filters',
     'admin_honeypot',
     'log_viewer',
-    'auth_login',
     'authentication',
     'home',
 ]
