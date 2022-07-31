@@ -54,13 +54,7 @@ INSTALLED_APPS = [
     'corsheaders',
     'rest_framework',
     'oauth2_provider',
-    'social_django',
-    'oidc_provider',
-    'rest_framework_social_oauth2',
-    'drf_yasg',
     'django_filters',
-    'admin_honeypot',
-    'log_viewer',
     'authentication',
     'home',
 ]
